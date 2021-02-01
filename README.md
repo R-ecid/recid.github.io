@@ -1,4 +1,4 @@
 ---
 permalink: /index.html
 ---
-# nanmola.github.io
+# recid.github.io
